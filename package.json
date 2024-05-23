@@ -1,14 +1,16 @@
 {
-  "name": "@vishal_pote/random_password_generator",
+  "name": "generate_random_password_any_characters",
   "version": "1.0.0",
   "description": "generate random password ",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "vishal pote",
   "license": "ISC",
   "dependencies": {
-    "@vishal_pote/random_password_generator": "^1.0.0"
+    "@vishal_pote/random_password_generator": "^1.0.0",
+    "generate_random_password_any_characters": "^1.0.0"
   }
 }
